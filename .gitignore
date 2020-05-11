@@ -1,0 +1,8 @@
+*results*/
+*rgb*/
+*.ipynb
+*.avi
+*.npy
+.ipynb_checkpoints/
+test/
+__pycache__/
